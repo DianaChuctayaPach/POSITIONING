@@ -1,5 +1,5 @@
 *{
-    outline: 1px solid  green;
+    /* outline: 1px solid  green; */
 }
 .caja1{
     width: 200px;
@@ -32,4 +32,31 @@
     margin-top: -200px; 
     
 }
-
+.caja4{
+    
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+}
+.contenedor4{
+    position: relative;
+}
+#x4{
+    position: absolute;
+    top: 40px;
+}
+#y4{
+    position: absolute;
+    left: 400px;
+    top: 40px; 
+}
+#z4{
+    position: absolute;
+    top: 300px;
+}
+#w4{
+    position: absolute;
+    left: 400px;
+    top: 300px;
+    /* margin-top: -200px;  */
+}
