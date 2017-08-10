@@ -1,0 +1,35 @@
+*{
+    outline: 1px solid  green;
+}
+.caja1{
+    width: 200px;
+    height: 200px;
+    background-color: palevioletred;
+   
+}
+.caja2{
+    
+    width: 200px;
+    height: 200px;
+    background-color: skyblue;
+  
+    
+}
+.caja3{
+     width: 200px;
+    height: 200px;
+    background-color: lightgreen;
+    
+}
+
+#y2{
+    position: relative;
+    left: 300px;
+}
+#y3{
+    position: absolute;
+    left: 210px;
+    margin-top: -200px; 
+    
+}
+
